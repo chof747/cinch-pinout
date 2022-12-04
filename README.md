@@ -11,7 +11,7 @@ This is a simple pinout board which enables to use a cinch plug on a breadboard.
 
 ## Revision History
 
-- **v1.0**: Base version (filed for fabrication: 19.11.2022)
-- **v1.1**: Changed resistor footprints to enable either an SMD or a Throughole resistor
+- **v1.0**: Base version (filed for fabrication: 19.11.2022; first successfull assembly: 25.11.2022)
+- **v1.1**: Changed resistor footprints to enable either an SMD or a Throughole resistor (filed for fabrication: 04.12.2022)
 
 ## Todos
